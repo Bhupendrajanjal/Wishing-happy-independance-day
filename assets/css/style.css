@@ -1,0 +1,16 @@
+.heroimg{
+    background-image: url(https://i.pinimg.com/474x/65/a3/71/65a371107aff41be39ad6333757cb50c.jpg);
+    height: 100vh;
+    border: 7px solid red;
+}
+body{
+    color: white;
+
+}
+.passworld{
+    color: green;
+}
+.para{
+    background-color: red;
+    margin-top: 240px;
+}
