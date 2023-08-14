@@ -32,7 +32,7 @@ const onLoginform=(eve)=>{
               imageUrl: 'https://media.istockphoto.com/id/513231275/photo/depressed-3d-man-sitting-on-white.jpg?s=612x612&w=0&k=20&c=kvFZI-tQUAajOjQnU-9GRsvB3UoKoObrfVloIugAXSI=',
               imageHeight: 500,
               imageAlt: 'Username is Wrong',
-              title:"Something Went Wrong",
+              title:"Something Went Wrong !!!!",
               timer:3000,
             })
         }
