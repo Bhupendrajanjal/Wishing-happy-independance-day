@@ -1,7 +1,7 @@
 .heroimg{
     background-image: url(https://i.pinimg.com/474x/65/a3/71/65a371107aff41be39ad6333757cb50c.jpg);
-    height: 100vh;
-    border: 7px solid red;
+    height: 100%;
+    width: 100%;
 }
 body{
     color: white;
@@ -13,4 +13,13 @@ body{
 .para{
     background-color: red;
     margin-top: 240px;
+}
+
+.indepandanceimg img{
+    height:100%;
+    overflow: hidden;
+    background-size: cover;
+   width: 100%;
+   object-fit: cover;
+  
 }
